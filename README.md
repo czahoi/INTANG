@@ -85,6 +85,11 @@ Disclaimer
 ==================
 INTANG is a research-oriented project. Anyone using it should be aware of the potential risks and responsible for his/her own actions against the censorship authority.
 
+During internal review, we discovered multiple remotely triggerable vulnerabilities. Some of these issues may lead to serious consequences, including potential remote code execution under certain conditions. While we are making efforts to address and patch some of these problems, **the system as a whole should still be considered insecure** for any real-world use.
+
+Please use this software **strictly for research and educational purposes in controlled environments only**.
+
+
 Contact
 ==================
 Any questions could be direct to intang.box@gmail.com
